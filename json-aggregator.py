@@ -54,6 +54,4 @@ for x in output:
 
 #closes the file handler
 jsonOut.close()
-
-
-# hello ! team!!
+# some other comment for v2, add some correction
